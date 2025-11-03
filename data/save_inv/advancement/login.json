@@ -1,0 +1,10 @@
+{
+    "criteria": {
+        "login":{
+            "trigger": "tick"
+        }
+    },
+    "rewards": {
+        "function": "save_inv:login"
+    }
+}
